@@ -1,4 +1,4 @@
-# Engineers in Paradise
+# Engineering History
 
 This is the GitHub repo of shared ideas and projects for the *best* apartment of 2022-2023 in all of Edinburgh.
 
