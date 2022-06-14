@@ -1,0 +1,7 @@
+---
+title: "Engineer_Paradise"
+---
+
+Welcome to the homepage. Check out our [ideas](Ideas.qmd) and [projects](Projects.qmd)!
+
+Created using [Quarto](https://quarto.org/docs).

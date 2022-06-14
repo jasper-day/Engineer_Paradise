@@ -1,0 +1,8 @@
+---
+title: "One Cool Idea"
+author: "Jasper"
+---
+
+# LED Wall
+
+We could make a triangular grid with aluminum extrusions, put LEDs inside, place it facing the wall and have sort of a low-rent [aurora nanoleaf](https://www.aurorananoleaf.com/).
