@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Engineer Paradise"
+  title: "Engineering History"
   navbar:
     left:
       - href: index.qmd

@@ -1,7 +1,9 @@
 ---
-title: "Engineer Paradise"
+title: "Engineering History"
 subtitle: "Creating heaven on earth through gadgetry"
 ---
+
+# The Chronicle of Engineering
 
 Welcome to the homepage. Check out our [ideas](Ideas.qmd) and [projects](Projects.qmd)!
 
