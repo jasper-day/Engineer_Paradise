@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  theme: slate
   title: "Engineer Paradise"
   navbar:
     left:
@@ -16,7 +15,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     html-math-method: katex
     toc: true

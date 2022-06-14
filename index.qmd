@@ -1,5 +1,6 @@
 ---
-title: "Engineer_Paradise"
+title: "Engineer Paradise"
+subtitle: "Creating heaven on earth through gadgetry"
 ---
 
 Welcome to the homepage. Check out our [ideas](Ideas.qmd) and [projects](Projects.qmd)!
