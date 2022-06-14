@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Engineering History"
+  favicon: favicon_io/favicon.ico
   navbar:
     left:
       - href: index.qmd
