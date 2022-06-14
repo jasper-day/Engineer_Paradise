@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Ideas/aurora_nanoleaf.html",
+    "href": "Ideas/aurora_nanoleaf.html",
+    "title": "One Cool Idea",
+    "section": "",
+    "text": "We could make a triangular grid with aluminum extrusions, put LEDs inside, place it facing the wall and have sort of a low-rent aurora nanoleaf."
+  },
+  {
+    "objectID": "Ideas.html",
+    "href": "Ideas.html",
+    "title": "Engineer_Paradise",
+    "section": "",
+    "text": "Jasper\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Engineer_Paradise",
+    "section": "",
+    "text": "Created using Quarto."
+  },
+  {
+    "objectID": "Projects/Home_Assistant.html",
+    "href": "Projects/Home_Assistant.html",
+    "title": "Home Assistant",
+    "section": "",
+    "text": "Home Assistant"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Engineer_Paradise",
+    "section": "",
+    "text": "The open source home automation solution for Raspberry Pi\n\n\n\n\n \n\n\n\n\nNo matching items"
+  }
+]
