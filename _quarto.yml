@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
+  theme: slate
   title: "Engineer_Paradise"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - Ideas.qmd
-      - Projects.qmd
+      - href: Ideas.qmd
+        text: Ideas
+      - href: Projects.qmd
+        text: Projects
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    html-math-method: katex
     toc: true
 
 
