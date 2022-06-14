@@ -6,3 +6,9 @@ description: "The open source home automation solution for Raspberry Pi"
 # Home Assistant on Raspberry Pi
 
 [Home Assistant](https://www.home-assistant.io/)
+
+Programs:
+
+[WLED](https://www.home-assistant.io/integrations/wled/) for running neopixels
+
+Octoprint integration

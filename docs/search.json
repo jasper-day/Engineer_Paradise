@@ -9,9 +9,9 @@
   {
     "objectID": "Ideas/aurora_nanoleaf.html",
     "href": "Ideas/aurora_nanoleaf.html",
-    "title": "One Cool Idea",
+    "title": "The Chromance",
     "section": "",
-    "text": "We could make a triangular grid with aluminum extrusions, put LEDs inside, place it facing the wall and have sort of a low-rent aurora nanoleaf."
+    "text": "Instructions\nControl with the Home Assistant rpi running WLED for max cool"
   },
   {
     "objectID": "Ideas.html",
@@ -32,7 +32,7 @@
     "href": "Projects/Home_Assistant.html",
     "title": "Home Assistant",
     "section": "",
-    "text": "Home Assistant"
+    "text": "Home Assistant\nPrograms:\nWLED for running neopixels\nOctoprint integration"
   },
   {
     "objectID": "Projects.html",

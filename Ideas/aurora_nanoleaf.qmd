@@ -1,8 +1,10 @@
 ---
-title: "One Cool Idea"
+title: "The Chromance"
 author: "Jasper"
 ---
 
-# LED Wall
+Zack Freedman details [here](https://www.youtube.com/watch?v=g6n8XLmZ__I&t=625s) how to build kind of a aurora-nanoleaf-replacement.
 
-We could make a triangular grid with aluminum extrusions, put LEDs inside, place it facing the wall and have sort of a low-rent [aurora nanoleaf](https://www.aurorananoleaf.com/).
+[Instructions](https://voidstar.dozuki.com/Guide/Chromance+Assembly+Instructions/6)
+
+Control with the [Home Assistant rpi](/Projects/Home_Assistant.qmd) running [WLED](https://www.home-assistant.io/integrations/wled/) for max cool
