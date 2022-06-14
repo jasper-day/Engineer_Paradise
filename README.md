@@ -12,4 +12,4 @@ To update the site after making changes, first [install quarto](https://quarto.o
 quarto render
 ```
 
-in the command line. Your pages can include LaTeX, code in Python, R, or Julia, images, and so on. Check out the Quarto docs for ideas.
+in the command line before pushing your changes. Your pages can include LaTeX, code in Python, R, or Julia, images, and so on. Check out the Quarto docs for ideas.

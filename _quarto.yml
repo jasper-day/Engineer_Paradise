@@ -4,7 +4,7 @@ project:
 
 website:
   theme: slate
-  title: "Engineer_Paradise"
+  title: "Engineer Paradise"
   navbar:
     left:
       - href: index.qmd
